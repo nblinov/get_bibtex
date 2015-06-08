@@ -1,0 +1,7 @@
+# get_bibtex
+A short script to fetch BibTeX info from InspireHEP from a LatexUS citeid. 
+Useful if a LaTeX bibliography was created by pasting LaTeXUS code directly into a TeX file (as is common when 
+writing hep-ph papers), but a full set of BibTeX entries is needed later, e.g., for thesis preparation.
+
+This script extracts citeid, searches Inspire, and (if the entry was found) downloads the BibTeX entry. 
+Example input and output files are provided
