@@ -5,3 +5,5 @@ writing hep-ph papers), but a full set of BibTeX entries is needed later, e.g., 
 
 This script extracts citeid, searches Inspire, and (if the entry was found) downloads the BibTeX entry. 
 Example input and output files are provided
+
+Note: I wrote this before I realized that InspireHEP provides a (probably) better utility [here](https://inspirehep.net/info/hep/tools/bibliography_generate?ln=en).
